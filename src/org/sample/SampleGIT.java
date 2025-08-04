@@ -29,5 +29,16 @@ public class SampleGIT {
 		System.out.println("TC5");
 
 	}
+	
+	public void tc6() {
 
+		System.out.println("TC6");
+
+	}
+
+	public void tc7() {
+
+		System.out.println("TC7");
+
+	}
 }
