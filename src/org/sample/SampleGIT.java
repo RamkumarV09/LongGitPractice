@@ -18,6 +18,18 @@ public class SampleGIT {
 
 	}
 
+	public void tc4() {
+
+		System.out.println("TC4");
+
+	}
+
+	public void tc5() {
+
+		System.out.println("TC5");
+
+	}
+	
 	public void tc6() {
 
 		System.out.println("TC6");
